@@ -89,11 +89,6 @@ _G.packer_plugins = {
     path = "/home/v/.local/share/nvim/site/pack/packer/start/cmp-buffer",
     url = "https://github.com/hrsh7th/cmp-buffer"
   },
-  ["cmp-cmdline"] = {
-    loaded = true,
-    path = "/home/v/.local/share/nvim/site/pack/packer/start/cmp-cmdline",
-    url = "https://github.com/hrsh7th/cmp-cmdline"
-  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/v/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",
@@ -128,6 +123,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/v/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
+  },
+  ["lsp-zero.nvim"] = {
+    loaded = true,
+    path = "/home/v/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
+    url = "https://github.com/VonHeikemen/lsp-zero.nvim"
   },
   ["lsp_lines.nvim"] = {
     loaded = true,

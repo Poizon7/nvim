@@ -11,4 +11,4 @@ require "v.comment"
 require "v.gitsigns"
 require "v.nvim-tree"
 require "v.lsp_lines"
-require "v.rust_tools"
+--[[ require "v.rust_tools" ]]
