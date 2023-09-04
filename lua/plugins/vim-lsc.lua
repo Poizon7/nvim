@@ -1,0 +1,3 @@
+return {
+  'natebosch/vim-lsc'
+}

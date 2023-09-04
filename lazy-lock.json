@@ -6,10 +6,11 @@
   "cmp-nvim-lua": { "branch": "main", "commit": "f3491638d123cfd2c8048aefaf66d246ff250ca6" },
   "cmp-path": { "branch": "main", "commit": "91ff86cd9c29299a64f968ebb45846c485725f23" },
   "cmp_luasnip": { "branch": "master", "commit": "18095520391186d634a0045dacaa346291096566" },
+  "dart-vim-plugin": { "branch": "master", "commit": "0ba32c911178e6701d3f76d754c8138a7c7c2e6f" },
   "friendly-snippets": { "branch": "main", "commit": "2f5b8a41659a19bd602497a35da8d81f1e88f6d9" },
   "gitsigns.nvim": { "branch": "main", "commit": "b1f9cf7c5c5639c006c937fc1819e09f358210fc" },
-  "lazy.nvim": { "branch": "main", "commit": "e27c9df5fe039e9d2833ef4fcf7305595d5ccda7" },
-  "lsp-zero.nvim": { "branch": "main", "commit": "63951c8f9701871abd6858d26f3bcc6b99ce5c74" },
+  "lazy.nvim": { "branch": "main", "commit": "ebdd0499551765e6a7aba220cc8ae4e0cdb6be69" },
+  "lsp-zero.nvim": { "branch": "v2.x", "commit": "63951c8f9701871abd6858d26f3bcc6b99ce5c74" },
   "lsp_lines.nvim": { "branch": "main", "commit": "ec98b45c8280e5ef8c84028d4f38aa447276c002" },
   "mason-lspconfig.nvim": { "branch": "main", "commit": "3924f2d264097b2caf13e713485dbc3e9d616574" },
   "mason.nvim": { "branch": "main", "commit": "87c9453cd91da3bba1076fa578a72439fbc4d311" },
@@ -23,6 +24,9 @@
   "rust-tools.nvim": { "branch": "master", "commit": "71d2cf67b5ed120a0e31b2c8adb210dd2834242f" },
   "telescope-media-files.nvim": { "branch": "master", "commit": "0826c7a730bc4d36068f7c85cf4c5b3fd9fb570a" },
   "telescope.nvim": { "branch": "master", "commit": "b79cd6c88b3d96b0f49cb7d240807cd59b610cd8" },
+  "vim-flutter": { "branch": "master", "commit": "422ff301a4fe7b989b79b83adf95add0c71ffda5" },
+  "vim-lsc": { "branch": "master", "commit": "6e098b385f91ec0893449130eda2a96c89e369a1" },
+  "vim-lsc-dart": { "branch": "master", "commit": "fac8f100fad5153aae8c932a033ea3a92cf140f2" },
   "vimtex": { "branch": "master", "commit": "18255a2370812696138cb415a5b02925d33ef569" },
   "vimwiki": { "branch": "dev", "commit": "7a48268d24614e74f8187856ade54cf03134e9d9" }
 }
